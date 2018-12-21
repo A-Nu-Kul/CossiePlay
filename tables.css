@@ -1,0 +1,17 @@
+body {
+	font-family:arial; 
+	font-size:14px;
+}
+ table {
+	 border-spacing: 2px;
+}
+ table th{
+	 padding:5px 7px;
+	 background-color: #9cdbf0;
+	 height:30px; 
+}
+ table td {
+	 padding:5px 7px;
+	 background-color: #e3f4fa;
+	 text-align:center; 
+}
